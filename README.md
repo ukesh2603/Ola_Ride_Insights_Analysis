@@ -296,9 +296,4 @@ streamlit run Streamlit_apps.py
 * Driver allocation optimization.
 * Fraud detection analytics.
 
----
-
-## Author
-
-Ukesh Venkatesh
 
