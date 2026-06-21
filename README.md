@@ -206,23 +206,23 @@ Features:
 
 ### Overall Dashboard
 
-![Overall](screenshots/Overall_page.png)
+![Overall](Screenshots/Overall_page.png)
 
 ### Revenue Dashboard
 
-![Revenue](screenshots/Revenue_page.png)
+![Revenue](Screenshots/Revenue_page.png)
 
 ### Vehicle Type Dashboard
 
-![Ratings](screenshots/Vehicle_type_page.png)
+![Vehicle Type](Screenshots/Vehicle_type_page.png)
 
 ### Cancellation Trends Dashboard
 
-![Ratings](screenshots/cancellation_page.png)
+![Cancellation Trends](Screenshots/cancellation_page.png)
 
 ### Ratings Dashboard
 
-![Ratings](screenshots/Ratings_page.png)
+![Ratings](Screenshots/Ratings_page.png)
 
 ---
 
