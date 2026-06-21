@@ -3,3 +3,6 @@ pandas
 pyodbc
 plotly
 streamlit-option-menu
+mysql-connector-python
+PyMySQL
+SQLAlchemy

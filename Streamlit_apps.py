@@ -359,16 +359,16 @@ elif page == "Power BI Report":
     tab1,tab2,tab3,tab4,tab5=st.tabs(["Overall","Vehicle_type","Revenue","Cancellation","Ratings"])
 
     with tab1:
-        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Overall_page.png", use_container_width=True)
+        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Screenshots\Overall_page.png", use_container_width=True)
 
     with tab2:
-        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Vehicle_type_page.png", use_container_width=True)
+        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Screenshots\Vehicle_type_page.png", use_container_width=True)
 
     with tab3:
-        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Revenue_page.png", use_container_width=True)
+        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Screenshots\Revenue_page.png", use_container_width=True)
 
     with tab4:
-        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\cancellation_page.png", use_container_width=True)
+        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Screenshots\cancellation_page.png", use_container_width=True)
 
     with tab5:
-        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Ratings_page.png", use_container_width=True)
+        st.image(r"C:\Users\ukesh\OneDrive\Desktop\Project\Ola_Ride_Insights\Screenshots\Ratings_page.png", use_container_width=True)
